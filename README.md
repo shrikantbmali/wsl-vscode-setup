@@ -25,7 +25,7 @@
 - **With this wsl is installed on your machine.**
 - before we continue: running following command are optional but are highly recommended 
 ``` bash
-sudo apt udpate
+sudo apt update
 sudo apt upgrade
 ```
 - this will also take some time.
